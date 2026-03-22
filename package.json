@@ -1,0 +1,16 @@
+{
+  "name": "parth-notes-desktop",
+  "version": "1.0.0",
+  "description": "Parth Notes Desktop App",
+  "main": "main.js",
+  "author": "Parth",
+  "license": "ISC",
+
+  "scripts": {
+    "start": "electron ."
+  },
+
+  "devDependencies": {
+    "electron": "^41.0.3"
+  }
+}
